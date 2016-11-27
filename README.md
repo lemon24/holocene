@@ -22,10 +22,10 @@ In scope:
 * node types
 * node ordering
 * inline references to other notes
-* (later) resources (node attributes that are not part of the tree)
+* (later) resources (node attributes that are not stored with the tree)
 * (later) error pages
 * (later) live preview
-* (later) Atom/RSS
+* (later) Atom feeds
 * (later) sitemap
 * (later) image handling
 * (later) full-text search
