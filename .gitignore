@@ -6,6 +6,6 @@
 dist
 build
 docs/_build
-holocene.egg-info
+urlspace.egg-info
 .tox
 .cache

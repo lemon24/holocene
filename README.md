@@ -1,4 +1,4 @@
-**holocene** is a way of organizing a bunch of documents that could become
+**urlspace** is a way of organizing a bunch of documents that could become
 a static/dynamic content management system, provided I write the actual code.
 
 Documents are nodes in a tree. Nodes have attributes.
